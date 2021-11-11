@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+          "version": "1.4.2"
+        }
+      },
+      {
+        "package": "SwiftQueue",
+        "repositoryURL": "https://github.com/OperatorFoundation/SwiftQueue.git",
+        "state": {
+          "branch": null,
+          "revision": "5e6cd8b325493f520a45d20d788efca707b53e6c",
+          "version": "0.1.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
